@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608830814 source:e:\github\code-hay\cay_thong_noel\main.cpp
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
